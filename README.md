@@ -1,6 +1,6 @@
 # Сalculator on Vanilla JS
 
-1)**Basic functionality**
+**Basic functionality**
   * The calculator performs mathematical operations: addition, subtraction, multiplication, division, the presence of a decimal point.
 
 **Additional math operations**
